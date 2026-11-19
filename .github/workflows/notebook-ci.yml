@@ -16,6 +16,7 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: pip install jupyter nbconvert
+      - run: python -m spacy download en_core_web_sm
       - name: Run all notebooks
         run: |
           for nb in *.ipynb; do
