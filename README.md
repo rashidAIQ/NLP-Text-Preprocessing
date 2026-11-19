@@ -1,3 +1,4 @@
+![Notebook CI](https://github.com/rashidAIQ/NLP-Text-Preprocessing/actions/workflows/notebook-ci.yml/badge.svg)
 # 📝 NLP Text Preprocessing
 
 ## 📌 Overview
